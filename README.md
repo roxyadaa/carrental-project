@@ -18,9 +18,9 @@ Welcome to the Car Rental System! This is a web application built with the Larav
 
 ## Installation Guide
 
-1. Clone the repository: `cd desktop`
+1. Clone the repository: `git clone https://github.com/roxyadaa/carrental-project.git`
 
-2. Navigate to the project directory: `cd desktop carrental-project`
+2. Navigate to the project directory: `cd carrental-project`
 
 3. Install the dependencies using Composer: `composer install`
 
