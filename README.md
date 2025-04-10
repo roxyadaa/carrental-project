@@ -1,6 +1,9 @@
+
 # Car Rental System - Laravel Web Application
 
 Welcome to the Car Rental System! This is a web application built with the Laravel framework, designed to provide a smooth experience for managing car rentals. Whether you're a user looking to book a car or an admin managing rentals, this application has all the necessary features to simplify the process.
+
+![alt text](/public/git-image.png)
 
 ## Key Features
 
